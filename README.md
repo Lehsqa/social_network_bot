@@ -1,7 +1,7 @@
 ## Intro
 
 This repo is related to https://github.com/Lehsqa/social_network_flask. Main function: creating bots for add posts and
-like them. For start working with it, need to clone it.
+like them. For start working with it, need to clone it:
 
 ```
 git clone https://github.com/Lehsqa/social_network_bot.git <project-name>
